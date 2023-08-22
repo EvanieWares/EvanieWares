@@ -1,6 +1,4 @@
-# Hi there 👋
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=EvanieWares&show_icons=true&theme=radical" />
+# Hi there, I'm Chisomo! 👋
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanieWares&layout=compact" />
 
