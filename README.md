@@ -15,6 +15,6 @@
 
 <div>
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanieWares&layout=compact" alt="EvanieWares top languages" />
-  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=EvanieWares&show_icons=true&locale=en" alt="" />
+  &nbsp;<img width="47%" src="https://github-readme-stats.vercel.app/api?username=EvanieWares&show_icons=true&locale=en" alt="" />
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EvanieWares&" alt="EvanieWares streak" />
