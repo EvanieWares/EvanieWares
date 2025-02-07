@@ -16,3 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EvanieWares&show_icons=true&locale=en&layout=compact" alt="EvanieWares top languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EvanieWares&show_icons=true&locale=en" alt="EvanieWares' stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EvanieWares&" alt="EvanieWares" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EvanieWares&theme=transparent)](https://git.io/streak-stats)
