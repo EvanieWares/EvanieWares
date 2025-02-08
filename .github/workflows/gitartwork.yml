@@ -12,5 +12,5 @@
             # Use this username's contribution graph  
             user_name: EvanieWares
             # Text on contribution graph 
-            text: EVANIE-WARES
+            text: EVANIE
        - uses: jasineri/simple-push-action@v1
