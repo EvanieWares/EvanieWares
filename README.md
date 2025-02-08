@@ -1,24 +1,46 @@
 ## Android & Full-Stack Developer
 ![gitartwork](gitartwork.svg)
 
-<div align="center">
-  <h1>Hi there, I'm <a href="https://evaniewares.github.io/">Chisomo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-</div>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/chisopsyelera/"><img height="30" src="https://raw.githubusercontent.com/EvanieWares/EvanieWares/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/EvanieWares"><img height="30" src="https://raw.githubusercontent.com/EvanieWares/EvanieWares/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://evaniewares.github.io/"><img height="30" src="https://raw.githubusercontent.com/EvanieWares/EvanieWares/main/dev.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://web.facebook.com/chisomo.psyelera"><img height="30" src="https://raw.githubusercontent.com/EvanieWares/EvanieWares/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-</p>
+### Hi there, I'm [Chisomo](https://evaniewares.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
 
-<img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img align="left" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+### About Me
+🎯 Passionate about **EdTech & Data Solutions**
 
-### ⚡ Stats ⚡
+---
+
+### 🛠 Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+...
+
+🔎 *Check out my repos for more cool projects!* 🚀
+
+---
+
+### 💬 Let's Connect!
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/EvanieWares)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EvanieWares)
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/chisomo.psyelera)
+<br />
+✍️ "Turning ideas into scalable solutions, one line of code at a time!"
+
+---
+
+### 📊 GitHub Stats ⚡
 </br>
-
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EvanieWares&show_icons=true&count_private=true&theme=radical" width="350" alt="EvanieWares top languages"></a>
@@ -31,3 +53,5 @@
 <p align='center'>
   <a href="#"><img src="https://streak-stats.demolab.com/?user=EvanieWares&theme=radical" width="350" alt="EvanieWares GitHub Streak"></a>
 </p>
+
+---
