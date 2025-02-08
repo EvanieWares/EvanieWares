@@ -13,6 +13,18 @@
 <img align="left" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EvanieWares&show_icons=true&locale=en&layout=compact" alt="EvanieWares top languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EvanieWares&show_icons=true&locale=en" alt="EvanieWares' stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EvanieWares&theme=transparent" alt="EvanieWares GitHub Streak" /></p>
+### ⚡ Stats ⚡
+</br>
+
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EvanieWares&show_icons=true&count_private=true&theme=radical" width="350" alt="EvanieWares top languages"></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanieWares&langs_count=10&layout=compact&theme=radical" width="350" alt="EvanieWares' stats"></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://streak-stats.demolab.com/?user=EvanieWares&theme=radical" width="350" alt="EvanieWares GitHub Streak"></a>
+</p>
