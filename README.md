@@ -54,4 +54,10 @@
   <a href="#"><img src="https://streak-stats.demolab.com/?user=EvanieWares&theme=radical" width="350" alt="EvanieWares GitHub Streak"></a>
 </p>
 
+<div align='center'>
+
+[![committers.top badge](https://user-badge.committers.top/malawi_private/EvanieWares.svg)](https://user-badge.committers.top/malawi_private/EvanieWares)
+
+</div>
+
 ---
