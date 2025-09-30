@@ -68,19 +68,16 @@ Passionate about creating innovative digital solutions that make a difference. I
 
 - Full-stack app for managing personal finances with budget tracking and financial summaries
 - **Tech:** Vue.js, FastAPI, PyMongo, Vuetify, JWT
-- ⭐ 78 stars | 🍴 21 forks
 
 **🏫 [School Data Sync](https://github.com/EvanieWares/sds)**
 
 - Android app for headteachers to submit monthly school data (staff, enrollment, infrastructure)
 - **Tech:** Jetpack Compose, Firebase, Hilt, Android
-- ⭐ 89 stars | 🍴 24 forks
 
 **🌐 [School Data Sync Portal](https://github.com/EvanieWares/sds-portal)**
 
 - Web application for district admins to analyze school data with visualization and Excel export
 - **Tech:** Vue.js, Vuetify, XLSX, Firebase, Pinia
-- ⭐ 156 stars | 🍴 42 forks
 
 **📄 [Sivi Meka - CV Builder](https://github.com/EvanieWares/sivimeka)**
 
