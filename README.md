@@ -105,7 +105,7 @@ Passionate about creating innovative digital solutions that make a difference. I
 
 🌟 **Key Achievements:**
 
-- � Published 5+ Android apps with 10k+ downloads
+- 📱 Published 5+ Android apps with 10k+ downloads
 - ⚡ Reduced manual tasks by 80% through workflow automation
 - 🎤 Spoke at 8 conferences and meetups
 - 🤝 Mentored 20+ junior developers
